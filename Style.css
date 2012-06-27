@@ -1,0 +1,44 @@
+﻿/* основной div страницы, все остальное содержится в нем
+ * выравнивание по центру */
+
+body
+{
+    overflow:hidden;
+}
+
+#PageContent
+{   
+    width:50%;
+    margin:10px auto;
+}
+
+/* div для позиционирования canvas по центру */
+#CanvasContainer
+{       
+    border: 1px solid black;
+    width: 500px;
+    height: 500px;
+    margin: 0px auto;
+}
+
+/* canvas для отрисовки игры 
+#GameArea
+{    
+    width: 500;
+    height: 500;    
+}*/
+
+
+/* блок в с информацией об аутентифицированном юзере */
+#AuthBlock
+{
+    float:right;
+    clear:both;
+}
+
+/*#test, #test2
+{
+    width:200px;
+    height:200px;
+    background:aqua;
+}*/

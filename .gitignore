@@ -1,0 +1,17 @@
+# Files created from merge tools
+*.BACKUP*
+*.BASE*
+*.LOCAL*
+*.REMOTE*
+*.orig
+
+
+[Oo]bj
+[Bb]in
+*.user
+*.suo
+*.[Cc]ache
+*.bak
+*.ncb
+*.log 
+[Tt]humbs.db 
